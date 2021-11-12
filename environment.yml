@@ -1,3 +1,4 @@
+name: stylegan3
 channels:
   - pytorch
   - nvidia
@@ -21,4 +22,3 @@ dependencies:
       - pyopengl==3.1.5
       - imageio-ffmpeg==0.4.3
       - pyspng
-      - psutil=5.8.0
